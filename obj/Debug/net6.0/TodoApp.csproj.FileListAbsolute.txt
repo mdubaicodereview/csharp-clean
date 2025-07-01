@@ -1,0 +1,15 @@
+/Users/mwilliams/git/csharp-clean/bin/Debug/net6.0/TodoApp
+/Users/mwilliams/git/csharp-clean/bin/Debug/net6.0/TodoApp.deps.json
+/Users/mwilliams/git/csharp-clean/bin/Debug/net6.0/TodoApp.runtimeconfig.json
+/Users/mwilliams/git/csharp-clean/bin/Debug/net6.0/TodoApp.dll
+/Users/mwilliams/git/csharp-clean/bin/Debug/net6.0/TodoApp.pdb
+/Users/mwilliams/git/csharp-clean/obj/Debug/net6.0/TodoApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mwilliams/git/csharp-clean/obj/Debug/net6.0/TodoApp.AssemblyInfoInputs.cache
+/Users/mwilliams/git/csharp-clean/obj/Debug/net6.0/TodoApp.AssemblyInfo.cs
+/Users/mwilliams/git/csharp-clean/obj/Debug/net6.0/TodoApp.csproj.CoreCompileInputs.cache
+/Users/mwilliams/git/csharp-clean/obj/Debug/net6.0/TodoApp.sourcelink.json
+/Users/mwilliams/git/csharp-clean/obj/Debug/net6.0/TodoApp.dll
+/Users/mwilliams/git/csharp-clean/obj/Debug/net6.0/refint/TodoApp.dll
+/Users/mwilliams/git/csharp-clean/obj/Debug/net6.0/TodoApp.pdb
+/Users/mwilliams/git/csharp-clean/obj/Debug/net6.0/TodoApp.genruntimeconfig.cache
+/Users/mwilliams/git/csharp-clean/obj/Debug/net6.0/ref/TodoApp.dll
