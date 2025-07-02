@@ -28,12 +28,25 @@ namespace TodoApp.Models
         public DateTime CreatedDate { get; set; }
         
         /// <summary>
+        /// Category of the task
+        /// </summary>
+        public string Category { get; set; } = string.Empty;
+        
+        /// <summary>
+        /// Tags associated with the task
+        /// </summary>
+        public List<string> Tags { get; set; } = new List<string>();
+        
+        /// <summary>
         /// Creates a string representation of the task
         /// </summary>
         public override string ToString()
         {
             string status = IsCompleted ? "[X]" : "[ ]";
-            return $"{Id}. {status} {Title} ({CreatedDate:yyyy-MM-dd})";
+            string categoryDisplay = !string.IsNullOrEmpty(Category) ? $"- {Category} " : "";
+            string tagsDisplay = Tags.Count > 0 ? $"[{string.Join(", ", Tags)}]" : "";
+            
+            return $"{Id}. {status} {Title} ({CreatedDate:yyyy-MM-dd}) {categoryDisplay}{tagsDisplay}";
         }
     }
 }

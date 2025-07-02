@@ -4,9 +4,10 @@
 
 A simple todo management console application with ASCII character UI elements that allows users to:
 - View todos
-- Add new todos
+- Add new todos with categories and tags
 - Mark todos as complete
 - Delete todos
+- Filter todos by category
 
 ## Clean Code Features
 
@@ -18,6 +19,8 @@ A simple todo management console application with ASCII character UI elements th
 - Proper naming, formatting, and exception handling
 - XML documentation comments
 - In-memory data storage
+- Organized categories and tags with clean implementation
+- Reusable UI components for list selection
 
 ## Purpose
 
